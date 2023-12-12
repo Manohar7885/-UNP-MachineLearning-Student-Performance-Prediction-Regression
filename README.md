@@ -1,7 +1,9 @@
 # -UNP-MachineLearning-Student-Performance-Prediction-Regression
 The data is about the grades of the student and the variables that affect the “TARGET_G3”.
 
-This data approach student achievement in secondary education of two Portuguese schools. The data attribute includes student grades, demographic, social and school related features and it was collected by using school reports and questionnaires.
+This data approach student achievement in secondary education of two Portuguese schools.
+
+The data attribute includes student grades, demographic, social and school related features and it was collected by using school reports and questionnaires.
 
 # Additional Variable Information
 # Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
